@@ -1,0 +1,2 @@
+- Move implementations over to WebGL
+- Use heuristics on grid shapes to workout if it's a crossword
